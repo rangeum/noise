@@ -1,0 +1,26 @@
+{
+  "name": "noise",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangeum/noise.git"
+  },
+  "author": {
+    "name": "Duri Kim"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rangeum/noise/issues"
+  },
+  "homepage": "https://github.com/rangeum/noise#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
